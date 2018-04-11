@@ -6,4 +6,8 @@ public class MyClass {
 		return a*b;
 	}
 	
+	public int addNumbers(int a, int b) {
+		return a+b;
+	}
+	
 }
