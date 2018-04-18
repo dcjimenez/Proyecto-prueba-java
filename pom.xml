@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pruebas</groupId>
 	<artifactId>proyecto-pruebas</artifactId>
-	<version>2018.4.60</version>
+	<version>2018.4.60-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Maven Quick Start Archetype</name>
 	<url>http://maven.apache.org</url>
