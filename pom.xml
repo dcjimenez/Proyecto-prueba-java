@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 	<name>Maven Quick Start Archetype</name>
 	<url>http://maven.apache.org</url>
-	<!-- Modificado 20/04/2018 -->
+	<!-- Modificado 20/04/2018 : 13.05 -->
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
