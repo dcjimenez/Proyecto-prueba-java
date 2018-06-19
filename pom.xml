@@ -27,7 +27,7 @@
 	</properties>
 
 	<scm>
-		<developerConnection>https://dcjimenez:m12345678@github.com:dcjimenez/Proyecto-prueba-java.git</developerConnection>
+		<developerConnection>scm:git:https://dcjimenez:m12345678@github.com:dcjimenez/Proyecto-prueba-java.git</developerConnection>
 	  <tag>v2018.4.64</tag>
   </scm>
 	
