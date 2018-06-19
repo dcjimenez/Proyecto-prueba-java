@@ -1,10 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pruebas</groupId>
 	<artifactId>proyecto-pruebas</artifactId>
-	<version>2018.4.64-SNAPSHOT</version>
+	<version>2018.4.64</version>
 	<packaging>jar</packaging>
 	<name>Maven Quick Start Archetype</name>
 	<url>http://maven.apache.org</url>
@@ -30,7 +28,8 @@
 
 	<scm>
 		<developerConnection>scm:git:[fetch=]ssh://dcjimenez:m12345678@github.com:dcjimenez/Proyecto-prueba-java.git[push=]ssh://dcjimenez:m12345678@github.com:dcjimenez/Proyecto-prueba-java.git</developerConnection>
-	</scm>
+	  <tag>v2018.4.64</tag>
+  </scm>
 	
 	<build>
 		<plugins>
