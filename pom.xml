@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pruebas</groupId>
 	<artifactId>proyecto-pruebas</artifactId>
-	<version>2018.4.64</version>
+	<version>2018.4.64-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Maven Quick Start Archetype</name>
 	<url>http://maven.apache.org</url>
@@ -27,7 +27,7 @@
 	</properties>
 
 	<scm>
-		<developerConnection>scm:git:[fetch=]https://dcjimenez:m12345678@github.com:dcjimenez/Proyecto-prueba-java.git[push=]https//dcjimenez:m12345678@github.com:dcjimenez/Proyecto-prueba-java.git</developerConnection>
+		<developerConnection>https://dcjimenez:m12345678@github.com:dcjimenez/Proyecto-prueba-java.git</developerConnection>
 	  <tag>v2018.4.64</tag>
   </scm>
 	
