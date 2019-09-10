@@ -1,1 +1,1 @@
-Proyecto para hacer pruebas
+Proyecto simple para hacer pruebas
